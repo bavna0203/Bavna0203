@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I am Bavna Rajan 👋
+I'm currently pursuing my Master's in Data Science at Columbia University, where I blend my passion for storytelling with rigorous data analysis. I believe that every dataset has a hidden narrative—one that can be uncovered by asking the right questions and approaching the data from the right angle.
+
+Background: I earned my undergraduate degree in Mathematics in Chennai, India.
+Passion: Data storytelling—transforming raw data into compelling narratives that drive meaningful decisions.
+Current Focus: Exploring projects in machine learning, data visualization, and quantitative analysis.
+Fun fact: I can impersonate people really well :))
+Feel free to check out my projects or get in touch if you'd like to collaborate!
 
 <!--
 **bavna0203/Bavna0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
