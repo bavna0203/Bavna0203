@@ -6,11 +6,26 @@
 
 ---
 
-## 🧰 Tech Stack  
-![Python](https://img.shields.io/badge/Python-%23b57edc.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%238e7cc3.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-%23a593c2.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23d3bdf0.svg?style=for-the-badge&logo=pandas&logoColor=black)
+### 💻 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-%23b57edc.svg?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-%238e7cc3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23a593c2.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23f2c1d1.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23eaeaea.svg?style=for-the-badge&logo=pytorch&logoColor=black) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23b57edc.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%238e7cc3.svg?style=for-the-badge&logo=keras&logoColor=white) 
+![NLTK](https://img.shields.io/badge/NLTK-%23a593c2.svg?style=for-the-badge&logo=python&logoColor=white) 
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFaceTransformers-%23d3bdf0.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Pandas](https://img.shields.io/badge/Pandas-%23f5f5f5.svg?style=for-the-badge&logo=pandas&logoColor=black) 
+![NumPy](https://img.shields.io/badge/NumPy-%23f2c1d1.svg?style=for-the-badge&logo=numpy&logoColor=black) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eaeaea.svg?style=for-the-badge&logo=matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%23b57edc.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%238e7cc3.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![D3.js](https://img.shields.io/badge/D3.js-%23d3bdf0.svg?style=for-the-badge&logo=d3dotjs&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-%23f2c1d1.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
+![GeoPandas](https://img.shields.io/badge/GeoPandas-%23eaeaea.svg?style=for-the-badge&logo=python&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-%23b57edc.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
