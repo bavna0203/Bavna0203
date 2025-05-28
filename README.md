@@ -1,23 +1,37 @@
-## Hi there, I am Bavna Rajan 👋
-I'm currently pursuing my Master's in Data Science at Columbia University, where I blend my passion for storytelling with rigorous data analysis. I believe that every dataset has a hidden narrative—one that can be uncovered by asking the right questions and approaching the data from the right angle. 
+# 🌸 Hi, I'm Bavna Rajan!
 
-Background: I earned my undergraduate degree in Mathematics in Chennai, India.\
-Passion: Data storytelling—transforming raw data into compelling narratives that drive meaningful decisions.\
-Current Focus: Exploring projects in machine learning, data visualization, and quantitative analysis. Experimenting with different techniques to uncover meaningful insights from the data\
-Fun fact: I can impersonate people really well :))\
-Feel free to check out my projects or get in touch if you'd like to collaborate!
+🎓 MS in Data Science @ Columbia  
+💡 Passionate about data storytelling, social impact, and practical AI  
+💻 Projects: Crash Risk Detection, Cyberbullying Classifier, ETF Strategy
 
-<!--
-**bavna0203/Bavna0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack  
+![Python](https://img.shields.io/badge/Python-%23b57edc.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%238e7cc3.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-%23a593c2.svg?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23d3bdf0.svg?style=for-the-badge&logo=pandas&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+
+### 🚦 Crash Risk Detection  
+Used 2M+ NYC collision records to visualize and detect high-risk zones using Python & Plotly. Created an interactive dashboard to support city planning decisions.  
+
+### 🤖 Cyberbullying Detection  
+Developed a BERT-based classifier with rule-based sentiment/sarcasm analysis. Integrated indicators using a meta-classifier for nuanced moderation.
+
+### 📈 ETF Trading Strategies  
+Backtested sector-wise strategies using financial indicators and visualized performance with D3.js. Explored volatility, events, and Sharpe ratios.
+
+---
+
+## 📊 GitHub Stats
+
+![Bavna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavnarajan&show_icons=true&theme=graywhite)
+
+---
+
+## 🌐 Let’s Connect!  
+[LinkedIn](your-link) • [Portfolio](your-link) • [Email](mailto:your@email.com)
