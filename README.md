@@ -32,7 +32,11 @@ Backtested sector-wise strategies using financial indicators and visualized perf
 ![Bavna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavnarajan&show_icons=true&theme=graywhite)
 
 -->
----
-
 ## 🌐 Let’s Connect!  
 [LinkedIn](https://www.linkedin.com/in/bavna-rajan/) • [Email](br2794@columbia.edu)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Lavender aesthetic animation" />
+</p>
