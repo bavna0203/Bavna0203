@@ -31,14 +31,14 @@
 
 ## 📌 Featured Projects
 
-### 🚦 Crash Risk Detection  
-Used 2M+ NYC collision records to visualize and detect high-risk zones using Python & Plotly. Created an interactive dashboard to support city planning decisions.  
-
-### 🤖 Cyberbullying Detection  
+### Cyberbullying Detection  
 Developed a BERT-based classifier with rule-based sentiment/sarcasm analysis. Integrated indicators using a meta-classifier for nuanced moderation.
 
-### 📈 ETF Trading Strategies  
+### ETF Trading Strategies  
 Backtested sector-wise strategies using financial indicators and visualized performance with D3.js. Explored volatility, events, and Sharpe ratios.
+
+### Interactive Sector Analysis: Uncovering Risk, Return, and Event Impacts Across Markets               
+Developed an interactive dashboard to analyze sector-wise stock performance, risk, and event-driven volatility across 15 companies, enabling stakeholders to make data-driven, strategic portfolio decisions.
 
 ---
 
