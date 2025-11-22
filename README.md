@@ -1,7 +1,7 @@
 # 🌸 Hi, I'm Bavna Rajan!
 
 🎓 MS in Data Science @ Columbia  
-💡 Passionate about data storytelling, social impact, and practical AI  
+💡 Passionate about data storytelling, social impact, and Responsible AI  
 💻 Projects: Crash Risk Detection, Cyberbullying Classifier, ETF Strategy
 
 ---
