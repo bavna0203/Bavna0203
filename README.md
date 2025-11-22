@@ -2,8 +2,7 @@
 
 🎓 MS in Data Science @ Columbia  
 💡 Passionate about data storytelling, social impact, and Responsible AI  
-💻 Projects: Crash Risk Detection, Cyberbullying Classifier, ETF Strategy
-
+💻 Projects: Agentic Disaster Management System, Cyberbullying Detection System, Interactive Sector-wise Stock Analysis
 ---
 
 ### 💻 Tech Stack  
@@ -34,7 +33,7 @@
 ### [Cyberbullying Detection Project](https://github.com/bavna0203/CyberBullyingDetection)
 Developed a BERT-based classifier with rule-based sentiment/sarcasm analysis. Integrated indicators using a meta-classifier for nuanced moderation.
 
-### [IBM TechXChange Hackathon](https://github.com/bavna0203/ProjectArkWatson) [:Certificate](https://drive.google.com/drive/u/0/folders/1ybO8fXh6VvIZ7isKzVSzRDuCPynWLbLf)
+### [IBM TechXChange Hackathon](https://github.com/bavna0203/ProjectArkWatson) [: Certificate](https://drive.google.com/drive/u/0/folders/1ybO8fXh6VvIZ7isKzVSzRDuCPynWLbLf)
 Built an agent-driven disaster management system leveraging IBM Watsonx and open-source data pipelines for monitoring, predictions, alerts, and actionable planning.
 
 ### [Interactive Sector Analysis: Uncovering Risk, Return, and Event Impacts Across Markets](https://github.com/bavna0203/EDAVFinalProject)               
