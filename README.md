@@ -34,8 +34,8 @@
 ### [Cyberbullying Detection Project](https://github.com/bavna0203/CyberBullyingDetection)
 Developed a BERT-based classifier with rule-based sentiment/sarcasm analysis. Integrated indicators using a meta-classifier for nuanced moderation.
 
-### ETF Trading Strategies  
-Backtested sector-wise strategies using financial indicators and visualized performance with D3.js. Explored volatility, events, and Sharpe ratios.
+### [IBM TechXChange Hackathon](https://github.com/bavna0203/ProjectArkWatson)
+Built an agent-driven disaster management system leveraging IBM Watsonx and open-source data pipelines for monitoring, predictions, alerts, and actionable planning.
 
 ### [Interactive Sector Analysis: Uncovering Risk, Return, and Event Impacts Across Markets](https://github.com/bavna0203/EDAVFinalProject)               
 Developed an interactive dashboard to analyze sector-wise stock performance, risk, and event-driven volatility across 15 companies, enabling stakeholders to make data-driven, strategic portfolio decisions.
