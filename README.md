@@ -3,6 +3,7 @@
 🎓 MS in Data Science @ Columbia  
 💡 Passionate about data storytelling, social impact, and Responsible AI  
 💻 Projects: Agentic Disaster Management System, Cyberbullying Detection System, Interactive Sector-wise Stock Analysis
+
 ---
 
 ### 💻 Tech Stack  
