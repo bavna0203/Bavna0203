@@ -34,7 +34,7 @@
 ### [Cyberbullying Detection Project](https://github.com/bavna0203/CyberBullyingDetection)
 Developed a BERT-based classifier with rule-based sentiment/sarcasm analysis. Integrated indicators using a meta-classifier for nuanced moderation.
 
-### [IBM TechXChange Hackathon](https://github.com/bavna0203/ProjectArkWatson)
+### [IBM TechXChange Hackathon](https://github.com/bavna0203/ProjectArkWatson) [Certificate]()
 Built an agent-driven disaster management system leveraging IBM Watsonx and open-source data pipelines for monitoring, predictions, alerts, and actionable planning.
 
 ### [Interactive Sector Analysis: Uncovering Risk, Return, and Event Impacts Across Markets](https://github.com/bavna0203/EDAVFinalProject)               
